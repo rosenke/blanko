@@ -4,8 +4,8 @@
 # Usage:	blanko.bash [first]
 # Example:	blanko.bash first
 # Responsible:	Foo Bar <em@il>
-# License:	CC-BY-SA 3.0 unported
-# Version:	2010-01-01
+# License:	CC BY-SA 4.0
+# Version:	2015-01-01
 # Based on:	
 
 ################################################################################
