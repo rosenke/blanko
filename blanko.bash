@@ -23,6 +23,9 @@
 # set some non-user serviceable vars                                           #
 ################################################################################
 
+# unset LANG if you parse stdout-put of your commands for preventing problems
+# with unanticipated languages
+#unset LANG
 
 
 ################################################################################
