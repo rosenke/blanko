@@ -1,13 +1,13 @@
 #!/usr/bin/python
 
 """
-Purpose:	foo
-Usage:		blanko.py [first]
-Example:	blanko.py first
-Responsible:	Foo Bar <em@il>
-License:	CC-BY-SA 3.0 unported
-Version:	2010-01-01
-Based on:	
+Purpose:     foo
+Usage:       blanko.py [first]
+Example:     blanko.py first
+Responsible: Foo Bar <em@il>
+License:     CC-BY-SA 3.0 unported
+Version:     2010-01-01
+Based on:    n/a
 """
 
 """
@@ -37,7 +37,7 @@ Based on:
 """
 
 
- 
+
 """
 ********************************************************************************
 ************************************* Main *************************************
